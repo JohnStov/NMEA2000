@@ -25,7 +25,7 @@
 
 */
 
-#include "RingBuffer.h"
+#include "NMEA2000_RingBuffer.h"
 
 //#define RING_BUFFER_ERROR_DEBUG
 //#define RING_BUFFER_DEBUG
